@@ -1,39 +1,27 @@
-### Hi there 👋
-
-🔭 I'm currently working on empowering young minds as a Coder Coach at Coder Sports Academy since December 2021. In this role, I lead engaging demonstrations in JavaScript, Python, Java, and HTML to enhance the coding skills of children. Additionally, I provide individual and small group tutoring, offering assistance in mastering assignments and reinforcing key learning concepts. My responsibilities also include updating classroom computers, providing hardware and software support to students, and organizing coding games to promote holistic development.
-
-🌱 I'm currently learning and applying advanced concepts in my university projects. One noteworthy project is "Threads and Simulations," where I served as a team member. We built a ghost game simulation using the C programming language, leveraging multi-threading to optimize data flow and reduce simulation response time. I implemented linked lists for improved runtime and space efficiency, utilizing concurrent programming techniques such as process management and threads. Through weekly team meetings, I contribute progress reflections and set goals for the next week's activities.
-
-👯 I'm looking to collaborate on innovative projects that involve system-level development and the implementation of advanced data structures. My skills include successfully implementing various data structures such as rootish arrays, skip lists, and red-black trees. I've also collaborated with peers to deepen our understanding of multiple data structures, fostering a collaborative learning environment.
-
-🤔 I'm looking for help with exploring new technologies and methodologies to enhance my coding prowess. I'm open to mentorship opportunities that allow me to gain insights from experienced professionals in the field.
-
-💬 Ask me about my experience in building the "Open Gallery App," a responsive web app created using JavaScript, HTML/CSS, MongoDB, Template Engine (pug), and AJAX. This project provided an exhibition space for artists, featuring a well-designed database for art items and catering to two types of users: patrons and artists. I successfully deployed the app to Carleton University OpenStack, showcasing my proficiency in RESTful design principles, proper HTTP status codes, error handling, and asynchronous operations.
-
-📫 How to reach me: Feel free to connect with me through my GitHub profile, where you can explore my coding projects and contributions. I'm always open to discussions and collaborations with fellow enthusiasts.
+# 💫 About Me:
+Hi there 👋<br>🔭 I'm currently working on empowering young minds as a Coder Coach at Coder Sports Academy since December 2021. In this role, I lead engaging demonstrations in JavaScript, Python, Java, and HTML to enhance the coding skills of children. Additionally, I provide individual and small group tutoring, offering assistance in mastering assignments and reinforcing key learning concepts. My responsibilities also include updating classroom computers, providing hardware and software support to students, and organizing coding games to promote holistic development.<br><br>🌱 I'm currently learning and applying advanced concepts in my university projects. One noteworthy project is "Threads and Simulations," where I served as a team member. We built a ghost game simulation using the C programming language, leveraging multi-threading to optimize data flow and reduce simulation response time. I implemented linked lists for improved runtime and space efficiency, utilizing concurrent programming techniques such as process management and threads. Through weekly team meetings, I contribute progress reflections and set goals for the next week's activities.<br><br>👯 I'm looking to collaborate on innovative projects that involve system-level development and the implementation of advanced data structures. My skills include successfully implementing various data structures such as rootish arrays, skip lists, and red-black trees. I've also collaborated with peers to deepen our understanding of multiple data structures, fostering a collaborative learning environment.<br><br>🤔 I'm looking for help with exploring new technologies and methodologies to enhance my coding prowess. I'm open to mentorship opportunities that allow me to gain insights from experienced professionals in the field.<br><br>💬 Ask me about my experience in building the "Open Gallery App," a responsive web app created using JavaScript, HTML/CSS, MongoDB, Template Engine (pug), and AJAX. This project provided an exhibition space for artists, featuring a well-designed database for art items and catering to two types of users: patrons and artists. I successfully deployed the app to Carleton University OpenStack, showcasing my proficiency in RESTful design principles, proper HTTP status codes, error handling, and asynchronous operations.<br><br>📫 How to reach me: Feel free to connect with me through my GitHub profile, where you can explore my coding projects and contributions. I'm always open to discussions and collaborations with fellow enthusiasts.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAbdulRaheem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abdul-raheem-1828361aa) 
 
-## Coding Languages
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" height="28">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="HTML" height="28">
-  &nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" title="CSS" height="40">
-  &nbsp;&nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" title="NodeJS" height="32">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" height="32">
-  &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java" height="38">
-  &nbsp;&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" title="VScode" height="36">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" height="32">
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="C++" height="32">
-  &nbsp;&nbsp;
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-2-logo-png-transparent.png" title="Linux" height="40">
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PODMAN](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RanaAbdulRaheem&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RanaAbdulRaheem&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAbdulRaheem&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RanaAbdulRaheem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RanaAbdulRaheem&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RanaAbdulRaheem&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
