@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-🔭 I’m currently working on honing my programming skills and diving into various computer science projects to gain practical experience.
+🔭 I'm currently working on empowering young minds as a Coder Coach at Coder Sports Academy since December 2021. In this role, I lead engaging demonstrations in JavaScript, Python, Java, and HTML to enhance the coding skills of children. Additionally, I provide individual and small group tutoring, offering assistance in mastering assignments and reinforcing key learning concepts. My responsibilities also include updating classroom computers, providing hardware and software support to students, and organizing coding games to promote holistic development.
 
-🌱 I’m currently learning new technologies and frameworks to stay up-to-date with the ever-evolving field of computer science.
+🌱 I'm currently learning and applying advanced concepts in my university projects. One noteworthy project is "Threads and Simulations," where I served as a team member. We built a ghost game simulation using the C programming language, leveraging multi-threading to optimize data flow and reduce simulation response time. I implemented linked lists for improved runtime and space efficiency, utilizing concurrent programming techniques such as process management and threads. Through weekly team meetings, I contribute progress reflections and set goals for the next week's activities.
 
-👯 I’m looking to collaborate on exciting and innovative projects that challenge my problem-solving abilities and contribute to real-world solutions.
+👯 I'm looking to collaborate on innovative projects that involve system-level development and the implementation of advanced data structures. My skills include successfully implementing various data structures such as rootish arrays, skip lists, and red-black trees. I've also collaborated with peers to deepen our understanding of multiple data structures, fostering a collaborative learning environment.
 
-🤔 I’m looking for help with staying updated on the latest trends in technology and connecting with like-minded individuals passionate about coding.
+🤔 I'm looking for help with exploring new technologies and methodologies to enhance my coding prowess. I'm open to mentorship opportunities that allow me to gain insights from experienced professionals in the field.
 
-💬 Ask me about anything related to computer science, algorithms, or software development. I love discussing and sharing knowledge!
+💬 Ask me about my experience in building the "Open Gallery App," a responsive web app created using JavaScript, HTML/CSS, MongoDB, Template Engine (pug), and AJAX. This project provided an exhibition space for artists, featuring a well-designed database for art items and catering to two types of users: patrons and artists. I successfully deployed the app to Carleton University OpenStack, showcasing my proficiency in RESTful design principles, proper HTTP status codes, error handling, and asynchronous operations.
 
-📫 How to reach me: Feel free to drop me a message on GitHub or connect with me on LinkedIn. I'm always open to networking and discussions about tech!
-- ⚡ Fun fact: ...
+📫 How to reach me: Feel free to connect with me through my GitHub profile, where you can explore my coding projects and contributions. I'm always open to discussions and collaborations with fellow enthusiasts.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAbdulRaheem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
