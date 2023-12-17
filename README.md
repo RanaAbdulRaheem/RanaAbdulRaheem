@@ -35,8 +35,5 @@ Hi there 👋<br>🔭 I'm currently working on empowering young minds as a Coder
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAbdulRaheem&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="300">
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RanaAbdulRaheem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
