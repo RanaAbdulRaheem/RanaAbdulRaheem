@@ -10,7 +10,7 @@ Hi there 👋<br>🔭 I'm currently working on empowering young minds as a Coder
 # 💻 Tech Stack:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C" width="60" height="60" style="border-radius: 50%; margin: 5px;">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C" width="80" height="40" style="border-radius: 50%; margin: 5px;">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" width="60" height="60" style="border-radius: 50%; margin: 5px;">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" width="60" height="60" style="border-radius: 50%; margin: 5px;">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" width="60" height="60" style="border-radius: 50%; margin: 5px;">
