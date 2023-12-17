@@ -29,9 +29,11 @@ Hi there 👋<br>🔭 I'm currently working on empowering young minds as a Coder
 </div>
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=RanaAbdulRaheem&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RanaAbdulRaheem&theme=nightowl&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAbdulRaheem&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RanaAbdulRaheem&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false" width="300">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanaAbdulRaheem&theme=nightowl&hide_border=true" width="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAbdulRaheem&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="300">
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RanaAbdulRaheem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
