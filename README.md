@@ -10,21 +10,21 @@ Hi there 👋<br>🔭 I'm currently working on empowering young minds as a Coder
 # 💻 Tech Stack:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C" width="80" height="40" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" title="OpenStack" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" title="Node.js" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js" title="Angular.js" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title="Angular" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="PODMAN" title="PODMAN" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" title="Qt" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" alt="Pug" title="Pug" width="60" height="60" style="border-radius: 50%; margin: 5px;">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" title="Express.js" width="60" height="60" style="border-radius: 50%; margin: 5px;">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" title="OpenStack" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" title="Node.js" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js" title="Angular.js" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title="Angular" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="PODMAN" title="PODMAN" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" title="Qt" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" alt="Pug" title="Pug" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" title="Express.js" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
 </div>
 
 # 📊 GitHub Stats:
