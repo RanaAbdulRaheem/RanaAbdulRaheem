@@ -18,7 +18,6 @@ I like building systems and then trying to break them, to make sure they actuall
 | [ai-security-lab](https://github.com/RanaAbdulRaheem/ai-security-lab) | Built an AI chatbot, a document search and a multi-agent system, then red-teamed and fixed them | Python, Ollama, Garak, PyRIT |
 | [PhasmophobiaSimulation](https://github.com/RanaAbdulRaheem/PhasmophobiaSimulation) | A ghost-hunt simulation with 5 threads sharing a house, kept safe with locks | C, pthreads, semaphores |
 | [AED_Simulation](https://github.com/RanaAbdulRaheem/AED_Simulation) | A defibrillator simulator with a live ECG graph and CPR feedback (team project) | C++, Qt |
-| [Hatching](https://github.com/RanaAbdulRaheem/Hatching) | A personal finance platform I co-founded | Web |
 
 ## Experience
 
