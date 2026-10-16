@@ -1,42 +1,36 @@
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80'><br><br><br>
-# ***Hi there*** 👋<br>
+# Hi, I'm Abdul 👋
 
-🔭 _I'm currently working on empowering young minds as a Coder Coach at Coder Sports Academy since December 2021. In this role, I lead engaging demonstrations in JavaScript, Python, Java, and HTML to enhance the coding skills of children. Additionally, I provide individual and small group tutoring, offering assistance in mastering assignments and reinforcing key learning concepts. My responsibilities also include updating classroom computers, providing hardware and software support to students, and organizing coding games to promote holistic development.<br><br>🌱 I'm currently learning and applying advanced concepts in my university projects. One noteworthy project is "Threads and Simulations," where I served as a team member. We built a ghost game simulation using the C programming language, leveraging multi-threading to optimize data flow and reduce simulation response time. I implemented linked lists for improved runtime and space efficiency, utilizing concurrent programming techniques such as process management and threads. Through weekly team meetings, I contribute progress reflections and set goals for the next week's activities.<br><br>👯 I'm looking to collaborate on innovative projects that involve system-level development and the implementation of advanced data structures. My skills include successfully implementing various data structures such as rootish arrays, skip lists, and red-black trees. I've also collaborated with peers to deepen our understanding of multiple data structures, fostering a collaborative learning environment.<br><br>💬 Ask me about my experience in building the "Open Gallery App," a responsive web app created using JavaScript, HTML/CSS, MongoDB, Template Engine (pug), and AJAX. This project provided an exhibition space for artists, featuring a well-designed database for art items and catering to two types of users: patrons and artists. I successfully deployed the app to Carleton University OpenStack, showcasing my proficiency in RESTful design principles, proper HTTP status codes, error handling, and asynchronous operations.<br><br>📫 How to reach me: Feel free to connect with me through my GitHub profile, where you can explore my coding projects and contributions. I'm always open to discussions and collaborations with fellow enthusiasts._
+I'm a Computer Science graduate from **Carleton University** (Internet & Cyber Security stream), based in Ottawa.
 
+I like building systems and then trying to break them, to make sure they actually hold up.
 
+## What I work on
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-raheem-1828361aa)
+- 🔐 **Security:** I built an AI security lab where I attack my own AI systems, fix what breaks, and re-test the fixes.
+- ⚙️ **Systems programming:** multithreaded C (pthreads, locks), Linux, Bash
+- 🐍 **Python:** data pipelines, automation and testing
+- ☁️ **Cloud and IT:** AWS, Microsoft 365, Docker
 
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="150" />
+## Projects worth a look
 
-# 💻 Tech Stack:
+| Project | What it is | Tech |
+|---|---|---|
+| [ai-security-lab](https://github.com/RanaAbdulRaheem/ai-security-lab) | Built an AI chatbot, a document search and a multi-agent system, then red-teamed and fixed them | Python, Ollama, Garak, PyRIT |
+| [PhasmophobiaSimulation](https://github.com/RanaAbdulRaheem/PhasmophobiaSimulation) | A ghost-hunt simulation with 5 threads sharing a house, kept safe with locks | C, pthreads, semaphores |
+| [AED_Simulation](https://github.com/RanaAbdulRaheem/AED_Simulation) | A defibrillator simulator with a live ECG graph and CPR feedback (team project) | C++, Qt |
+| [Hatching](https://github.com/RanaAbdulRaheem/Hatching) | A personal finance platform I co-founded | Web |
 
-<div align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" title="OpenStack" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" title="Node.js" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js" title="Angular.js" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" title="Angular" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="PODMAN" title="PODMAN" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" title="Qt" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" alt="Pug" title="Pug" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" title="Express.js" width="80" height="40" style="border-radius: 10px; border: 2px solid #555; margin: 5px;">
-</div>
+## Experience
 
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanaAbdulRaheem&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false" width="300">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanaAbdulRaheem&theme=nightowl&hide_border=true" width="300">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaAbdulRaheem&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="300">
-</div>
+- **Technical Consultant, KNDC.** Cloud, Microsoft 365 and security admin; led an AWS account migration
+- **Data Scientist / Full-Stack Developer intern, Communication Research Canada.** Python pipelines, LLM middleware, React
+- **IT Analyst / Programmer intern, Canada Revenue Agency.** Angular components, unit tests, Scrum
+- **Teaching Assistant, COMP 3007**, and **Coder Coach**, teaching kids aged 7–18 to code
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Tech
 
+`C` `C++` `Python` `Java` `JavaScript` `TypeScript` `Linux` `Bash` `Docker` `Git` `AWS` `Qt` `Angular` `React` `Node.js` `MongoDB`
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/abdul-raheem-1828361aa) · abdulraheemrana56@gmail.com
